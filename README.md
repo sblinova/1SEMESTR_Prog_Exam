@@ -12,3 +12,4 @@
 &emsp;Programma, kas izvada visus Armstronga skaitļus
 ### 6
 &emsp;Programma, kas aprēķina Akermana funkcijas vērtību
+### Šaha figūru uzdevums
